@@ -86,3 +86,5 @@ sed -i 's/parameter:\s[1-9]*[0-9][0-9]*/parameter: your_modify_value/g'
 
 >及时地「偷懒」即是勤奋！
            --沃兹基朔德
+
+好久没更新文章，最近忙，前面的「ACG」系列会抽空补。
