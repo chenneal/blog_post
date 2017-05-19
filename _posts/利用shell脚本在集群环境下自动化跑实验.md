@@ -1,9 +1,13 @@
 ---
 title: 利用shell脚本在集群环境下自动化跑实验
 date: 2016-10-06 14:16:39
-categories: 
-- IT技巧
+
+tags:
 - shell
+
+categories: 
+- shell
+
 ---
 
 ## 缘由

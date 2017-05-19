@@ -1,9 +1,13 @@
 ---
 title: 作品汇总-ACG篇
 date: 2016-08-11 20:37:35
+
+tags:
+- ACG
+
 categories: 
 - ACG
-- 汇总
+
 ---
 
 {%img http://7xk6yg.com1.z0.glb.clouddn.com/作品汇总-ACG篇.png "'ACG'" "'图源作者:TID P站id=50717512'" %}
@@ -27,6 +31,7 @@ categories:
 
 [作品汇总-ACG篇1][list1]
 [作品汇总-ACG篇2][list2]
+[作品汇总-ACG篇3][list3]
 
 ## 目前已更新的作品列表
 
@@ -62,9 +67,25 @@ categories:
 28. 最强会长黑神
 29. 我的朋友很少
 30. 某科学的超电磁炮
+31. 犬夜叉
+32. 在盛夏等待
+33. 约会大作战
+34. 我的妹妹不可能那么可爱
+35. 弹丸论破
+36. 魔法少女伊莉雅
+37. 旋风管家
+38. 我的青春恋爱物语果然有问题
+39. 濒危物种少女
+40. 潜行吧！奈亚子
+41. 散华礼弥
+42. 妄想学生会
+43. 织田信奈的野望
+44. Infinite Stratos
+45. 悠哉日常大王
 
 [list1]: http://chenneal.github.io/2016/08/12/作品汇总-ACG篇1/
 [list2]: http://chenneal.github.io/2016/08/13/作品汇总-ACG篇2/
+[list3]: http://chenneal.github.io/2016/12/17/作品汇总-ACG篇3/
 
 
 

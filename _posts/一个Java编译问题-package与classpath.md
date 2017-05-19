@@ -1,9 +1,14 @@
 ---
 title: 一个Java编译问题-package与classpath
 date: 2016-05-03 19:57:12
+
 categories: 
-- 程序设计语言
 - Java
+
+tags:
+- Java
+- 编译
+
 ---
 
 今天在补`Java`的时候突然出现了一个编译问题，困扰了我好久。
